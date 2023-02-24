@@ -22,7 +22,7 @@ Multiplexing is one of the oldest and most useful techniques in digital design. 
 ## Simulation Results
 
 <p align="center">
-   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/waveform_simulation.PNG" width="850">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/waveform_simulation.PNG" width="1150">
 </p>
 
 <p align="center">
@@ -30,4 +30,5 @@ Multiplexing is one of the oldest and most useful techniques in digital design. 
 </p>
 
 _"When you have a dream, you've got to grab it and never let go."_
+
 *Day 01 Completed*
