@@ -4,7 +4,7 @@
 Multiplexing is one of the oldest and most useful techniques in digital design. This technique allows to send several analog or digital signals through a shared channel.
 
 <p align="center">
-   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux4a1.PNG" width="450">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux4a1.PNG" width="250">
 </p>
 
 ## Design using SystemVerilog
