@@ -10,23 +10,23 @@ Multiplexing is one of the oldest and most useful techniques in digital design. 
 ## Design using SystemVerilog
 
 <p align="center">
-   <img alt="Mux4a1Code" title="Mux4a1Code" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_code.PNG" width="350">
+   <img alt="Mux4a1Code" title="Mux4a1Code" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_code.PNG" width="550">
 </p>
 
 ## Testbench
 
 <p align="center">
-   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_code.PNG" width="350">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_code.PNG" width="950">
 </p>
 
 ## Simulation Results
 
 <p align="center">
-   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/waveform_simulation.PNG" width="350">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/waveform_simulation.PNG" width="850">
 </p>
 
 <p align="center">
-   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_simulation.PNG" width="350">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_simulation.PNG" width=" 650">
 </p>
 
 _"When you have a dream, you've got to grab it and never let go."_
