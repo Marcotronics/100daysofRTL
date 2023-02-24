@@ -9,17 +9,25 @@ Multiplexing is one of the oldest and most useful techniques in digital design. 
 
 ## Design using SystemVerilog
 
-<img align="center" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_code.PNG =280x450" width="220px"/>
+<p align="center">
+   <img alt="Mux4a1Code" title="Mux4a1Code" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_code.PNG" width="350">
+</p>
 
 ## Testbench
 
-<img align="center" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_code.PNG =280x450" width="320px"/>
+<p align="center">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_code.PNG" width="350">
+</p>
 
 ## Simulation Results
 
-<img align="center" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_simulation.PNG =350x450" width="220px"/>
+<p align="center">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/waveform_simulation.PNG" width="350">
+</p>
 
-<img align="center" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/waveform_simulation.PNG =150x550" width="220px"/>
+<p align="center">
+   <img alt="Mux4a1" title="Mux4a1" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/001_RTL_MUX/images/mux_tb_simulation.PNG" width="350">
+</p>
 
 _"When you have a dream, you've got to grab it and never let go."_
 *Day 01 Completed*
