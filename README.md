@@ -6,3 +6,4 @@ Here is the link to @raulbehl profile: [Link](https://github.com/raulbehl)
 | Day  | Module Github  | Link|
 | :------------ |:---------------:| :-----:|
 | 1     | Day_1_RTL_MUX| [https://github.com/Marcotronics/100daysofRTL/tree/main/001_RTL_MUX](https://github.com/Marcotronics/100daysofRTL/tree/main/001_RTL_MUX) |
+| 2    | Day_2_D_LATCH| [https://github.com/Marcotronics/100daysofRTL/tree/main/002_RTL_D_LATCH](https://github.com/Marcotronics/100daysofRTL/tree/main/002_RTL_D_LATCH) |
