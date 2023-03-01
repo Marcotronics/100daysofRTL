@@ -4,29 +4,29 @@
 D flip flop is a fundamental synchronous circuit that stores a value in memory.
 
 <p align="center">
-   <img alt="dff" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/002_RTL_D_LATCH/images/d_latch_image.PNG" width="250">
+   <img alt="dff" title="dff" src="https://github.com/Marcotronics/100daysofRTL/blob/main/003_D_FF/images/DFF.PNG" width="250">
 </p>
 
 ## Design using SystemVerilog
 
 <p align="center">
-   <img alt="dffcode" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/002_RTL_D_LATCH/images/d_latch.PNG" width="550">
+   <img alt="dffcode" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/003_D_FF/images/d_ff_code.PNG" width="550">
 </p>
 
 ## Testbench
 
 <p align="center">
-   <img alt="dff_tb" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/002_RTL_D_LATCH/images/d_latch_tb.PNG" width="950">
+   <img alt="dff_tb" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/003_D_FF/images/d_ff_code_tb.PNG" width="950">
 </p>
 
 ## Simulation Results
 
 <p align="center">
-   <img alt="waveformdff" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/002_RTL_D_LATCH/images/waveform.PNG" width="1150">
+   <img alt="waveformdff" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/003_D_FF/images/Waveform.PNG" width="1150">
 </p>
 
 <p align="center">
-   <img alt="simudff" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/002_RTL_D_LATCH/images/Simulation.PNG" width=" 650">
+   <img alt="simudff" title="dff" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/003_D_FF/images/Simulation.PNG" width=" 650">
 </p>
 
 _"There is nothing impossible to they who will try."_
