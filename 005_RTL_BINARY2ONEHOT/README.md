@@ -1,5 +1,5 @@
-# #100daysofRTL Day 05 - Binary to One Hot Decoder in SystemVerilog
-## _Binary to One Hot Decoder_
+# #100daysofRTL Day 05 - Binary to One Hot Converter in SystemVerilog
+## _Binary to One Hot Converter
 
 Converts a binary to a one-hot code.
 
