@@ -1,8 +1,7 @@
 # #100daysofRTL Day 08 - Shift Register in SystemVerilog
 ## _Shift Register_
 
-Shift Register
-
+A register capable of shifting bits to the right or left hand side.
 ## Design using SystemVerilog
 
 <p align="center">
