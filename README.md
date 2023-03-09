@@ -13,3 +13,4 @@ Here is the link to @raulbehl profile: [Link](https://github.com/raulbehl)
 | 6   | Day_6_RTL_BINARY2GRAY| [https://github.com/Marcotronics/100daysofRTL/006_RTL_BINARY2GRAY](https://github.com/Marcotronics/100daysofRTL/tree/main/006_RTL_BINARY2GRAY) |
 | 7   | Day_7_RTL_ALU| [https://github.com/Marcotronics/100daysofRTL/007_RTL_ALU](https://github.com/Marcotronics/100daysofRTL/tree/main/007_RTL_ALU) |
 | 8   | Day_8_RTL_SHIFT_REGISTER| [https://github.com/Marcotronics/100daysofRTL/008_SHIFT_REGISTER](https://github.com/Marcotronics/100daysofRTL/tree/main/008_SHIFT_REGISTER) |
+| 9   | Day_9_RTL_LFSR| [https://github.com/Marcotronics/100daysofRTL/009_RTL_LFSR](https://github.com/Marcotronics/100daysofRTL/tree/main/009_RTL_LFSR) |
