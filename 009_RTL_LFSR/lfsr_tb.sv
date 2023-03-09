@@ -24,11 +24,6 @@ initial begin
 end
 
 initial begin
-    #30;
-    repeat (30) @(posedge s_clk);    
-end
-
-initial begin
     $monitor("s_rst = %b ,s_q = %b  ",s_rst,s_q);
 end
 
