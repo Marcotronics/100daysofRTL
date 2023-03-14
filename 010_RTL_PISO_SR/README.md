@@ -1,6 +1,7 @@
-# #100daysofRTL Day 10 - Parallel Input Serial Output in SystemVerilog
+# #100daysofRTL Day 10 -   in SystemVerilog
 ## _PISO Shift Register_
 
+Parallel data is loaded into the register simultaneously and is shifted out of the register serially one bit at a time under clock control.
 ## Design using SystemVerilog
 
 <p align="center">
