@@ -1,5 +1,5 @@
 # #100daysofRTL Day 12 - JOHNSON COUNTER in SystemVerilog
-## Johnson Counter_
+## _Johnson Counter_
 
 ## Design using SystemVerilog
 
