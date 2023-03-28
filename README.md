@@ -17,3 +17,5 @@ Here is the link to @raulbehl profile: [Link](https://github.com/raulbehl)
 | 10   | Day_10_RTL_PISO_SR| [https://github.com/Marcotronics/100daysofRTL/010_RTL_PISO_SR](https://github.com/Marcotronics/100daysofRTL/tree/main/010_RTL_PISO_SR) |
 | 11   | Day_11_RTL_LOAD_COUNTER| [https://github.com/Marcotronics/100daysofRTL/011_RTL_LOAD_COUNTER](https://github.com/Marcotronics/100daysofRTL/tree/main/011_RTL_LOAD_COUNTER) |
 | 12   | Day_12_JOHNSON_COUNTER| [https://github.com/Marcotronics/100daysofRTL/012_JOHNSON_COUNTER](https://github.com/Marcotronics/100daysofRTL/tree/main/012_JOHNSON_COUNTER) |
+| 13   | Day_13_SEQUENCE_DETECTOR| [https://github.com/Marcotronics/100daysofRTL/013_SEQUENCE_DETECTOR](https://github.com/Marcotronics/100daysofRTL/tree/main/013_SEQUENCE_DETECTOR) |
+
