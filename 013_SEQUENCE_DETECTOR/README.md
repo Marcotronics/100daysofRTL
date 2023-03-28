@@ -4,7 +4,7 @@
 ## Design using SystemVerilog
 
 <p align="center">
-   <img alt="seqdetcode" title="seqdet" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/013_SEQUENCE_DETECTOR/images/seq_detector_code.PNG" width="550">
+   <img alt="seqdetcode" title="seqdet" src="https://raw.githubusercontent.com/Marcotronics/100daysofRTL/main/013_SEQUENCE_DETECTOR/images/seq_detector_code.PNG" width="350">
 </p>
 
 ## Testbench
